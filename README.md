@@ -1,2 +1,2 @@
 # FreeCodeCampJourney
-This is my journey on the FreeCodeCamp Course
+This is my journey on the FreeCodeCamp University
